@@ -93,7 +93,7 @@ const Navbar = () => {
       <Box component="nav">
         <AppBar position="static" className={classes.appbar}>
           <Toolbar>
-            <Typography variant="h5" style={{marginLeft:'92%'}} className={classes.title}>
+            <Typography variant="h5" style={{marginLeft:'90%'}} className={classes.title}>
               Portfolio
             </Typography>
             <IconButton onClick={() => setOpen(true)}>
